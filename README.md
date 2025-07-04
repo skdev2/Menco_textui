@@ -1,7 +1,5 @@
 # Menco_textui
 
-# Menco_textui
-
 A simple, lightweight FiveM script that displays a customizable text-based UI for button prompts.
 
 ---
