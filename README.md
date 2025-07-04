@@ -2,6 +2,8 @@
 
 A simple, lightweight FiveM script that displays a customizable text-based UI for button prompts.
 
+![image](https://github.com/user-attachments/assets/785dcbd4-c4f6-4cdc-bd01-46cef24901c8)
+
 ---
 
 ## 💡 Features
@@ -44,8 +46,6 @@ TriggerEvent('Menco_textui:ShowTextUI',
     action,     -- string: The action description
     holdType    -- string: 'Hold button' or 'Press button'
 )
-
-![image](https://github.com/user-attachments/assets/785dcbd4-c4f6-4cdc-bd01-46cef24901c8)
 
 
 -- Example:
