@@ -45,6 +45,9 @@ TriggerEvent('Menco_textui:ShowTextUI',
     holdType    -- string: 'Hold button' or 'Press button'
 )
 
+![image](https://github.com/user-attachments/assets/785dcbd4-c4f6-4cdc-bd01-46cef24901c8)
+
+
 -- Example:
 TriggerEvent('Menco_textui:ShowTextUI', 'F1', 'Open Garage', 'Hold button')
 
